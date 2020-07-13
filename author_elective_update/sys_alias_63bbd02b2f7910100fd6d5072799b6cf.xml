@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_58872_needit.test</id>
+        <multiple_connections>false</multiple_connections>
+        <name>test</name>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-10 06:00:08</sys_created_on>
+        <sys_id>63bbd02b2f7910100fd6d5072799b6cf</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_58872_needit.test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_alias_63bbd02b2f7910100fd6d5072799b6cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-10 06:01:09</sys_updated_on>
+        <type>credential</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>6bbcb27bdbee97004f035d00cf96196b</instance_id>
+        <instance_name>dev61295</instance_name>
+        <name>sys_alias_63bbd02b2f7910100fd6d5072799b6cf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_58872_needit.test</id><multiple_connections>false</multiple_connections><name>test</name><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-10 06:00:08</sys_created_on><sys_id>63bbd02b2f7910100fd6d5072799b6cf</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_58872_needit.test</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_alias_63bbd02b2f7910100fd6d5072799b6cf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-10 06:01:09</sys_updated_on><type>credential</type></sys_alias></record_update>]]></payload>
+        <payload_hash>-1973516471</payload_hash>
+        <record_name>x_58872_needit.test</record_name>
+        <reverted_from/>
+        <source>e32d33db2ff110100fd6d5072799b68a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-10 06:01:09</sys_created_on>
+        <sys_id>012c5ce72f7910100fd6d5072799b664</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1733750341a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-10 06:01:09</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>382c5ce74e791010b9a631d3c338fa63</update_guid>
+        <update_guid_history>382c5ce74e791010b9a631d3c338fa63:-1973516471,8eeb9823677910100cd00add03f49ce9:-667096222</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-10 06:01:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>376b7e5d1fea43e282c620d80b2e1fe1</sys_id>
+        <sys_metadata>63bbd02b2f7910100fd6d5072799b6cf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_alias_63bbd02b2f7910100fd6d5072799b6cf</sys_update_name>
+        <sys_update_version display_value="sys_alias_63bbd02b2f7910100fd6d5072799b6cf">012c5ce72f7910100fd6d5072799b664</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-10 06:01:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
